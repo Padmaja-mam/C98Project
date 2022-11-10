@@ -1,0 +1,39 @@
+body
+{
+   background-color: rgb(218, 229, 14);
+}
+
+h1
+{
+    color : maroon;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h4
+{
+    color : maroon;
+}
+#start_button
+{
+    background-color:lime;
+    color : white;
+    height : 70px;
+    width : 120px;
+    font-size: x-large;
+    border-style: double;
+    border-color: maroon;
+}
+#pic1
+{
+    width : 25%;
+    height : 30%;
+}
+#pic2
+{
+    width : 25%;
+    height : 30%;
+}
+#pic3
+{
+    width : 25%;
+    height : 30%;
+}
